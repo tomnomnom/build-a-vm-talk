@@ -1,0 +1,17 @@
+# Let's Build A Virtual Machine!
+
+Code and slides from my Hey!Stac talk at the Belgrave in Leeds on the 28th of October 2014.
+
+"the-go-version.go" is the version written during the talk - warts and all!
+
+Provided you have Go installed, you can run it by like this:
+
+    ▶ go run the-go-version.go
+
+"the-php-version.php" is from a practice run I did the day before the talk, and is provided for comparison. You can run it like this:
+
+    ▶ php the-php-version.php
+
+Thanks to all that came :)
+
+
