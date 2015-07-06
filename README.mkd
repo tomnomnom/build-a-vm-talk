@@ -3,7 +3,7 @@
 Code and slides from my Hey!Stac talk at the Belgrave in Leeds on the 28th of October 2014.
 
 You can [read about it here](http://hey.wearestac.com/talks/let-s-build-a-virtual-machine) 
-and [watch the video here](https://www.youtube.com/watch?v=GjGRhIl0xWs).
+and [watch the video here](https://www.youtube.com/watch?v=DwHJrh3zRH0).
 
 "the-go-version.go" is the version written during the talk - warts and all!
 
